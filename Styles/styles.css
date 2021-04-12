@@ -594,7 +594,8 @@ footer .socialmedia .fab {
 		overflow:visible;
 	}
 	.main .episodios .iframes iframe {
-		width: 94%;		
+		width: 94%;
+		height: 232px;
 		margin-left: 3%;
 		margin-right: 3%		
 	}
